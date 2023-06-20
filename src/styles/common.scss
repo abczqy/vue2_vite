@@ -1,0 +1,231 @@
+@font-face {
+	font-family: "PangMenZhengDao";
+	src: url("~@/styles/font/PangMenZhengDaoBiao.ttf") format("truetype");
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: "YouSheBiaoTiHei";
+	// src:url('~@/assets/font/PangMenZhengDaoBiao.ttf')
+	src: url("~@/assets/font/YouSheBiaoTiHei.ttf");
+}
+body {
+	overflow: hidden;
+	// "Microsoft YaHei"
+	font-family: "SF Pro SC", "SF Pro Text", "PingFang SC", "Helvetica Neue", "Helvetica", "Microsoft YaHei", "Arial",
+		"sans-serif";
+}
+
+// el-dialog
+.el-dialog {
+	background: #f8f8fb;
+	box-shadow: 0px 20px 40px -7px rgba(39, 76, 119, 0.16);
+	border-radius: 17px 17px 17px 17px;
+	opacity: 1;
+	// .el-dialog__header{display:none;}
+	.el-dialog__body {
+		padding: 20px 40px;
+		height: 100%;
+	}
+}
+
+.el-tooltip__popper {
+	max-width: 1200px !important;
+}
+
+//数据表格
+.zq_data_table {
+	display: flex;
+	flex-direction: column;
+
+	.el-table__body-wrapper {
+		height: 100%;
+		width: 100%;
+		overflow: auto;
+		overflow: hidden;
+		position: relative;
+		overflow-x: auto;
+	}
+}
+
+// 设置滚动条的宽度
+::-webkit-scrollbar {
+	width: 8px;
+	height: 8px;
+}
+// 设置滚动条的背景色和圆角
+::-webkit-scrollbar-thumb {
+	background-color: rgba(144, 147, 153, 0.3);
+	border-radius: 8px;
+}
+.el-table__body-wrapper,
+.firefox_scroll {
+	scrollbar-width: thin;
+	scrollbar-color: rgba(144, 147, 153, 0.3);
+}
+
+// 数据表格内样式
+.txt_center > .cell {
+	text-align: center;
+}
+.a_default {
+	color: #1664ff;
+	font-size: 12px;
+	font-weight: 400;
+}
+.a_close {
+	color: #274c77;
+	font-size: 12px;
+	font-weight: 400;
+}
+.a_del {
+	color: #ff0000;
+	font-size: 12px;
+	font-weight: 400;
+}
+
+// 统计文字
+.txt_total_span {
+	margin: 0 3px;
+}
+
+// 按钮
+.btn_default {
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid #274c77;
+	padding: 9px 10px;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: 400;
+	color: #274c77;
+	background-color: transparent;
+}
+.btn_default:hover {
+	background-color: transparent;
+	color: #274c77 !important;
+	border: 1px solid #274c77;
+}
+.btn_default:focus {
+	background-color: transparent;
+	color: #274c77 !important;
+	border: 1px solid #274c77;
+}
+.btn_primary {
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid #274c77;
+	padding: 9px 10px;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: 400;
+	color: #fff;
+	background-color: #274c77;
+}
+.btn_primary:hover {
+	background-color: #274c77;
+	color: #fff !important;
+	border: 1px solid #274c77;
+}
+.btn_primary:focus {
+	background-color: #274c77;
+	color: #fff !important;
+	border: 1px solid #274c77;
+}
+
+.btn_primary_small {
+	border-radius: 8px 8px 8px 8px;
+	border: 1px solid #274c77;
+	padding: 5px 10px;
+	font-size: 12px;
+	line-height: 14px;
+	font-weight: 400;
+	color: #fff;
+	background-color: #274c77;
+}
+.btn_primary_small:hover {
+	background-color: #274c77;
+	color: #fff !important;
+	border: 1px solid #274c77;
+}
+.btn_primary_small:focus {
+	background-color: #274c77;
+	color: #fff !important;
+	border: 1px solid #274c77;
+}
+
+.btn_add {
+	border: 1px solid #274c77;
+	color: #fff;
+	background-color: #274c77;
+	width: 68px;
+	height: 30px;
+	border-radius: 10px;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.w68 {
+	width: 68px;
+}
+.w100 {
+	width: 100%;
+}
+
+// 视频播放器
+// 隐藏-音量控制
+.vjs-control-bar > .vjs-volume-panel {
+	display: none !important;
+}
+
+.dia_title {
+	font-size: 24px;
+	font-family: PangMenZhengDao-Regular, PangMenZhengDao;
+	font-weight: 400;
+	color: #274c77;
+	margin: 0 0 20px 10px;
+}
+
+//数据加载
+.comm_loading_mask {
+	.el-loading-text {
+		color: #000 !important;
+	}
+}
+
+// 单行显示省略号
+.alone_overflow {
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+
+
+// cesium
+.cesium-viewer-fullscreenContainer  /* 全屏按钮 */ {
+	display: none !important;
+	position: absolute;
+	top: 0;
+}
+.el-popover .__show_files{
+	max-height: calc(100vh - 300px);
+	overflow: hidden auto;
+}
+.el-popover .__show_files .f_name{
+	min-width: 0 !important;
+}
+// 多选下拉框 指定宽度
+.el-cusselect-item-l {
+	float: left;
+	max-width: 128px;
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.el-cusselect-item-r {
+	float: right; 
+	color: #8492a6; 
+	max-width: 140px;
+	font-size: 14px;
+	white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

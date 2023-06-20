@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zhankai</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="大屏7-地图模式-4k" transform="translate(-1917.000000, -239.000000)" fill="#00D4FF" fill-rule="nonzero">
+            <g id="切换2" transform="translate(21.333333, 220.000000)">
+                <g id="切换" transform="translate(66.133333, 0.000000)">
+                    <g id="zhankai" transform="translate(1840.627451, 30.048000) rotate(-270.000000) translate(-1840.627451, -30.048000) translate(1830.304251, 19.856000)">
+                        <polygon id="路径" points="14.2464 9.912 4.27093333 20.384 4.85063841e-13 20.384 10.0352 9.912 4.85063841e-13 -7.27140773e-13 4.27093333 -7.27140773e-13"></polygon>
+                        <polygon id="路径备份" points="20.6464 9.912 10.6709333 20.384 6.4 20.384 16.4352 9.912 6.4 -7.28242955e-13 10.6709333 -7.28242955e-13"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

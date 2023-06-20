@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="404px" viewBox="0 0 20 404" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>zs_c</title>
+    <defs>
+        <linearGradient x1="57.2822246%" y1="51.5147085%" x2="125.12314%" y2="51.5147085%" id="linearGradient-1">
+            <stop stop-color="#2096FD" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#2096FD" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="大屏7-地图模式-4k" transform="translate(-1194.000000, -1715.000000)" fill="url(#linearGradient-1)">
+            <g id="闸门控制" transform="translate(1181.866667, 1619.500000)">
+                <g transform="translate(0.000000, 74.500000)" id="图片背景">
+                    <g transform="translate(12.800000, 20.000000)">
+                        <ellipse id="zs_c" transform="translate(22.260870, 203.000000) scale(-1, 1) translate(-22.260870, -203.000000) " cx="22.2608696" cy="203" rx="22.2608696" ry="203"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

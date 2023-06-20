@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="11px" height="10px" viewBox="0 0 11 10" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>shouqi</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.800000012">
+        <g id="大屏7-地图模式2" transform="translate(-898.000000, -120.000000)" fill="#00D4FF" fill-rule="nonzero">
+            <g id="切换2" transform="translate(10.000000, 110.000000)">
+                <g id="切换" transform="translate(31.000000, 0.882353)">
+                    <g id="shouqi" transform="translate(862.794118, 14.141647) scale(-1, -1) rotate(-270.000000) translate(-862.794118, -14.141647) translate(857.955118, 9.045647)">
+                        <polygon id="路径" points="6.678 4.956 2.002 10.192 1.13686838e-13 10.192 4.704 4.956 1.13686838e-13 1.58137968e-13 2.002 1.58137968e-13"></polygon>
+                        <polygon id="路径备份" transform="translate(6.339000, 5.096000) scale(1, -1) translate(-6.339000, -5.096000) " points="9.678 4.956 5.002 10.192 3 10.192 7.704 4.956 3 1.57586877e-13 5.002 1.57586877e-13"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

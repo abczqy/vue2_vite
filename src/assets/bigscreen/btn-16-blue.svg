@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="70px" height="46px" viewBox="0 0 70 46" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>4X4</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="大屏7-视频监控4" transform="translate(-10.000000, -583.000000)">
+            <g id="4X4" transform="translate(10.000000, 583.000000)">
+                <rect id="矩形" stroke="#01FCFC" fill="#000000" opacity="0.800000012" x="0.5" y="0.5" width="69" height="45"></rect>
+                <g id="编组-4" transform="translate(3.742857, 4.000000)" fill="#00D4FF">
+                    <rect id="矩形" x="0" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-26" x="16" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-27" x="32" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-28" x="48" y="0" width="14.2222222" height="8"></rect>
+                </g>
+                <g id="编组-4备份" transform="translate(3.742857, 14.000000)" fill="#00D4FF">
+                    <rect id="矩形" x="0" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-26" x="16" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-27" x="32" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-28" x="48" y="0" width="14.2222222" height="8"></rect>
+                </g>
+                <g id="编组-4备份-2" transform="translate(3.742857, 24.000000)" fill="#00D4FF">
+                    <rect id="矩形" x="0" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-26" x="16" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-27" x="32" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-28" x="48" y="0" width="14.2222222" height="8"></rect>
+                </g>
+                <g id="编组-4备份-3" transform="translate(3.742857, 34.000000)" fill="#00D4FF">
+                    <rect id="矩形" x="0" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-26" x="16" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-27" x="32" y="0" width="14.2222222" height="8"></rect>
+                    <rect id="矩形备份-28" x="48" y="0" width="14.2222222" height="8"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

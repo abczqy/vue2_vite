@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1707px" height="4px" viewBox="0 0 1707 4" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矩形</title>
+    <defs>
+        <linearGradient x1="100%" y1="50.0002747%" x2="4.94829872e-14%" y2="49.9997253%" id="linearGradient-1">
+            <stop stop-color="#00D4FF" stop-opacity="0" offset="0%"></stop>
+            <stop stop-color="#00D4FF" stop-opacity="0.347601617" offset="22.3131721%"></stop>
+            <stop stop-color="#00D4FF" stop-opacity="0.761418269" offset="41.5877342%"></stop>
+            <stop stop-color="#00D4FF" offset="50.5981551%"></stop>
+            <stop stop-color="#00D4FF" stop-opacity="0.76294799" offset="58.7109548%"></stop>
+            <stop stop-color="#00D4FF" stop-opacity="0.348639642" offset="78.2802129%"></stop>
+            <stop stop-color="#00D4FF" stop-opacity="0" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="大屏7-地图模式-4k-收起" transform="translate(-672.000000, -2134.000000)" fill="url(#linearGradient-1)">
+            <rect id="矩形" transform="translate(1525.333333, 2136.000000) scale(1, -1) translate(-1525.333333, -2136.000000) " x="672" y="2134" width="1706.66667" height="4"></rect>
+        </g>
+    </g>
+</svg>
